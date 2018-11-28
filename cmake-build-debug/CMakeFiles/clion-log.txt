@@ -1,0 +1,9 @@
+Visual Studio not found at: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community Configure
+
+Cannot get compiler information:
+	Cannot load Visual C++ environment from C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvarsall.bat:
+	rv:-1 text:0 out:**********************************************************************
+	** Visual Studio 2017 Developer Command Prompt v15.0.26430.15
+	** Copyright (c) 2017 Microsoft Corporation
+	**********************************************************************
+	[vcvarsall.bat] Environment initialized for: 'x86'
